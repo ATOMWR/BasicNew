@@ -19,7 +19,9 @@ public class MainActivity extends AppCompatActivity {
         //new update
         
         //this is it
-        
+
+        //local update
+
         //remote update
     }
 }
